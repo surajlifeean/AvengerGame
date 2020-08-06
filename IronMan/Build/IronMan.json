@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "First2DProject",
+"productVersion": "0.1",
+"dataUrl": "IronMan.data.unityweb",
+"wasmCodeUrl": "IronMan.wasm.code.unityweb",
+"wasmFrameworkUrl": "IronMan.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": true,
+"multithreading": false,
+"unityVersion": "2019.4.6f1"
+}
